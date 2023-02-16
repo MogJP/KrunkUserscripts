@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker Chat Colorizer
 // @namespace    https://github.com/MogJP/KrunkUserscripts
-// @version      0.9
+// @version      1.0
 // @description  Changes the color of Join/Leave in chatbox!
 // @author       Mogura (twitter:@mogjp2)
 // @match        https://krunker.io/
