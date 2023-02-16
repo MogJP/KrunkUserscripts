@@ -7,8 +7,8 @@
 // @match        https://krunker.io/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=krunker.io
 // @grant        none
-// @updateURL    https://github.com/MogJP/KrunkUserscripts/edit/main/ChatColorizer.user.js
-// @downloadURL  https://github.com/MogJP/KrunkUserscripts/edit/main/ChatColorizer.user.js
+// @updateURL    https://github.com/MogJP/KrunkUserscripts/raw/main/ChatColorizer.user.js
+// @downloadURL  https://github.com/MogJP/KrunkUserscripts/raw/main/ChatColorizer.user.js
 // ==/UserScript==
 
 var monitorElement = window.document.getElementById('chatList');
