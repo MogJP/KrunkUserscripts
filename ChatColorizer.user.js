@@ -3,7 +3,7 @@
 // @namespace    https://github.com/MogJP/KrunkUserscripts
 // @version      1.3
 // @description  Changes the color of Join/Leave in chatbox!
-// @author       Mogura (twitter:@mogjp2)
+// @author       Mogura
 // @match        https://krunker.io/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=krunker.io
 // @grant        none
